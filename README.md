@@ -29,7 +29,7 @@ Special thanks to the **Google Developers Group Tech Winter Break Workshop** for
 
 ### Workshop Speakers
 - **Ishwari Kshirsagar**
-- **Rachit Lilhase**
+- **Rachit Lahase**
 
 ### Workshop Mentor
 - **Arati Paraskar**
