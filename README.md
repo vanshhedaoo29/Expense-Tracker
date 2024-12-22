@@ -1,35 +1,65 @@
 
-# Expense Tracker
+# **Expense Tracker**
 
-## Description
-The Expense Tracker is a simple and intuitive web application designed to help users manage their personal finances. It allows users to track their daily expenses, categorize spending, and visualize their financial habits, fostering better budget management.
+## **Description**
+The Expense Tracker is a simple and intuitive web application designed to help users manage their personal finances. It allows users to track daily expenses, categorize spending, and visualize financial habits to foster better budget management.
 
-## Features
-- Add, edit, and delete expenses.
-- Categorize expenses for better organization.
-- Display the total expenditure.
-- User-friendly interface.
+---
 
-## Tech Stack Used
-- **HTML**: For creating the structure of the application.
-- **CSS**: For styling the application and enhancing its visual appeal.
-- **JavaScript**: For implementing dynamic functionalities.
+## **✨ TECH WINTER BREAK 2024 ✨**
 
-## How to Run the Project
-   1. Clone or download the repository.
-   2. Navigate to the project folder.
-   3. Open the `index.html` file in your preferred web browser.
-   4. Start tracking your expenses!
+Welcome to **TECH WINTER BREAK** hosted by **Google Developer Group (GDG) on Campus PRPCEM**! 🚀  
+This repository serves as a common space for participants to collaborate, learn, and showcase their Web development projects. 💻📱  
 
-## Deployed Link
-[Expense Tracker Live Demo](https://vanshhedaoo29.github.io/Expense-Tracker/) 
+---
 
-## Acknowledgments
-Special thanks to the **Google Developers Group Tech Winter Break Workshop** for guiding and inspiring the development of this project.
+## **🌟 Event Overview**
 
-### Workshop Speakers
-- **Ishwari Kshirsagar**
-- **Rachit Lahase**
+**TECH WINTER BREAK** is a unique initiative by **GDG on Campus PRPCEM** in collaboration with Google, aimed at fostering innovation and hands-on learning in Web development.  
+This event is part of our mission to empower students with industry-relevant skills and practical experience. 🌐📖  
 
-### Workshop Mentor
-- **Arati Paraskar**
+---
+
+## **🛠️ Workshop Details**
+
+- **Event:** TECH WINTER BREAK ❄️  
+- **Organized by:** Google Developer Group (GDG) on Campus PRPCEM 🏫  
+
+### **Workshop Speakers**
+- 🧑‍🏫 Ishwari Kshirsagar  
+- 🧑‍🏫 Rachit Lahase  
+- 🧑‍🏫 Asiya Shaikh  
+
+### **Workshop Mentor**
+- 🧑‍🏫 Arati Paraskar (GDG on Campus PRPCEM Lead)  
+
+---
+
+## **✨ Features of the Project**
+Projects developed during the TECH WINTER BREAK include the following features:  
+
+- **User-Friendly Interfaces:** Intuitive and clean designs. 🌈  
+- **Responsive Design:** Adaptable for various screen sizes. 📐  
+- **Core Functionalities:** HTML, CSS, and JavaScript-based dynamic components. ✅  
+- **Interactive Elements:** Engaging and functional designs. 🎮  
+
+---
+
+## **💻 Technologies Used**
+- **Programming Language:** HTML, CSS, JavaScript  
+- **Development Tools:** Visual Studio Code, Git, GitHub 🛠️  
+
+---
+
+## **🏆 Event Acknowledgments**
+
+This workshop and its projects are part of **TECH WINTER BREAK**, an initiative under the guidance of:  
+
+- **Google** for supporting student-driven learning. 🌍✨  
+- **GDG on Campus PRPCEM Team** for organizing and executing the event. 🤝🎓  
+
+---
+
+## **Deployed Link**  
+[**Expense Tracker Live Demo**](https://vanshhedaoo29.github.io/Expense-Tracker/)  
+
